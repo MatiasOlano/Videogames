@@ -1,0 +1,6 @@
+.container {
+  background-image: url("../../assets/Gaming.jpg");
+  background-position: center;
+  height: 100vh;
+  background-size: cover;
+}

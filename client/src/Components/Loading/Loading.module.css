@@ -1,0 +1,9 @@
+.loading {
+  background-color: #222222;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
